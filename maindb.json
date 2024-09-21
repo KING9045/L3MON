@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "username": "king",
+    "password": "b2086154f101464aab3328ba7e060deb",
+    "loginToken": "d3629477dab7267401a2183ba3240228",
+    "logs": [
+      {
+        "time": "2024-09-21T11:08:48.344Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-21T11:45:46.300Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2024-09-21T11:54:55.230Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
